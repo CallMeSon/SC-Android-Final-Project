@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Gray Scale-->
+    <color name="purple1">#3C467B</color>
+    <color name="purple2">#50589C</color>
+    <color name="purple3">#636CCB</color>
+    <color name="purple4">#6E8CFB</color>
+
+
+    <!--Color Pallate-->
+    <color name="bold">#F8F8F8</color>
+    <color name="lightWhite">#EEEEEE</color>
+    <color name="lightGrey">#CCCCCC</color>
+    <color name="midgray">#999999</color>
+    <color name="gray">#666666</color>
+    <color name="midDark">#999999</color>
+    <color name="dark">#333333</color>
+    <color name="darkest">#111111</color>
+
+</resources>
