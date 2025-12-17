@@ -30,16 +30,6 @@ Proyek ini dibangun sebagai tugas akhir (*Final Project*) dengan fokus pada impl
 
 ---
 
-## 📸 Tangkapan Layar (Screenshots)
-
-| Login Page | Homepage | Form Input |
-|:---:|:---:|:---:|
-| <img src="path/to/screenshot_login.png" width="200" alt="Login Page"/> | <img src="path/to/screenshot_home.png" width="200" alt="Homepage"/> | <img src="path/to/screenshot_form.png" width="200" alt="Form Page"/> |
-
-> *Catatan: Ganti placeholder gambar di atas dengan screenshot asli aplikasimu agar README ini semakin menarik!*
-
----
-
 ## 🛠️ Teknologi yang Digunakan
 
 * **Bahasa Pemrograman:** [Kotlin](https://kotlinlang.org/)
